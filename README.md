@@ -19,3 +19,10 @@
   
 
 * Partie 7 & 8 : Dev Client/Serveur avec ServicesWeb et Concurrentielle :  <http://belatar.info/cours/cours-android-7.pdf> 
+
+
+#### Ou voir le lien vers l'entrepôt Google Drive :cloud: :
+* <https://drive.google.com/open?id=1KqeTrw8LKMOyEKWTtU_B1MRrle2-daib>  
+  
+  
+### <https://MIAGE3.AzureWebSites.net/>
