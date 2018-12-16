@@ -3,7 +3,7 @@
  ## Supports du cours "Développement des applications mobiles" du Prof. M. BELATAR :
 
 	• Partie 1 : Introduction & Installation
-	À partir de l’adresse <http://belatar.info/cours/cours-android-1.pdf> 
+	À partir de l’adresse <(http://belatar.info/cours/cours-android-1.pdf)> 
 
 	• Partie 2 : Interfaces Graphiques
 	À partir de l’adresse <http://belatar.info/cours/cours-android-2.pdf> 
