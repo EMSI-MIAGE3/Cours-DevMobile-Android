@@ -1,7 +1,7 @@
-# DevMobile-Android :
+# DevMobile-Android :man_technologist: :
 
 
- ### Supports du cours "Développement des Applications-Mobiles" du Prof. M. BELATAR :
+ ### Supports du cours "Développement des Applications-Mobiles" du Prof. M. BELATAR :computer: :
 
 * Partie 1 - Introduction & Installation : <http://belatar.info/cours/cours-android-1.pdf>
   
